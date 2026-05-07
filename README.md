@@ -1,6 +1,6 @@
 # flightloadandtrimcalculator
 
-A lightweight browser-based tool for basic aircraft load and balance calculations. Built using vanilla HTML, CSS, and JavaScript.
+A lightweight browser-based tool for basic aircraft load and balance calculations. 
 The project runs entirely on the client side and is deployed using GitHub Pages.
 
 **Tech Stack**
